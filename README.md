@@ -1,52 +1,64 @@
-<h1 align="left">Hi 👋, I'm Bilal Halıcı</h1>
-<h3 align="left">Frontend-Led Fullstack JavaScript Engineer</h3>
+<h1 align="center">Bilal Halıcı</h1>
+<h3 align="center">Frontend-Led Fullstack JavaScript Engineer</h3>
+
+<p align="center">
+<a href="https://github.com/bilalhalici">GitHub</a> •
+<a href="https://www.linkedin.com/in/bilalhalici/">LinkedIn</a>
+</p>
 
 ---
 
-### 🚀 About Me
+## 🚀 About
 
-- 💻 5+ years of experience building modern web applications  
-- ⚛️ Strong focus on **React, Next.js, and TypeScript**  
-- 🧩 Building scalable UI systems and data-driven dashboards  
-- 🌱 Currently improving my **fullstack (Node.js)** and system design skills  
-- 🌍 Open to **remote and hybrid opportunities**
+Frontend-focused engineer with 5+ years of experience building production-grade web applications.
 
----
-
-### 🛠️ Tech Stack
-
-**Frontend**
-- React.js / Next.js  
-- TypeScript / JavaScript  
-- HTML5 / CSS3 / Sass  
-
-**Backend (Basic / Growing)**
-- Node.js  
-- REST APIs  
-
-**Tools**
-- Git / GitHub  
-- VS Code  
+- Building **analytics dashboards & data-heavy interfaces**
+- Working with **high-volume event data systems**
+- Designing **scalable frontend architectures**
+- Integrating **real-time and REST APIs**
 
 ---
 
-### 📊 GitHub Stats
 
-<!-- ![Stats](https://github-readme-stats-fast.vercel.app/api?username=bilalhalici&show_icons=true&theme=radical) -->
+## 🛠️ Tech Stack
+
+**Frontend**  
+React • Next.js • TypeScript • JavaScript • React Native  
+HTML • CSS • SCSS • Tailwind CSS  
+
+**State & Data Management**  
+Redux • Context API • React Query  
+
+**Backend**  
+Node.js • NestJS • REST APIs • JWT Authentication • GraphQL  
+
+**Database**  
+PostgreSQL • SQL • Prisma ORM  
+
+**Testing**  
+React Testing Library • Vitest  
+
+**Tools & DevOps**  
+Git • GitLab • Postman • Docker • CI/CD
+
+---
+
+## 📊 GitHub
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=bilalhalici&layout=compact)
 
 ---
 
-### 🌐 Connect with Me
+## 🎯 Focus
 
-- 💼 LinkedIn: https://www.linkedin.com/in/bilalhalici/  
+```text
+Building scalable product architectures
+Working with data-intensive systems
+Shipping production-grade applications
+```
 
 ---
 
-### 🎯 Current Focus
-
-```text
-Improving fullstack skills (Node.js)
-Preparing for global opportunities
-Building production-ready applications
+<p align="center">
+Open to remote opportunities
+</p>
